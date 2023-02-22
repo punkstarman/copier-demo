@@ -1,2 +1,5 @@
 project_name:
   type: str
+
+project_description:
+  type: str
