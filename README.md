@@ -1,1 +1,1 @@
-# copier-demo
+# {{project_name}}
